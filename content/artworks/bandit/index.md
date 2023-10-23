@@ -17,9 +17,6 @@ Once the machine displayed the public keys, private keys, and balance of each ac
 
 In case a collision happens, the machine plays a unique song that you will probably never hear…
 
-—
-
-The one art crypto bandit is currently at sale on [Manifold](https://gallery.manifold.xyz/listing?listingId=6859) as an NFT certificate of ownership.
 
 ## Exhibitions
 
